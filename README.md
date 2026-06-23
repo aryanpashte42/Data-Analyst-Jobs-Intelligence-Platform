@@ -82,6 +82,11 @@ Developed an interactive Streamlit dashboard enabling users to explore insights 
 * Power BI Demand Analysis
 * Tableau Demand Analysis
 
+### Distribution of Remote VS Non Remote Jobs
+
+* Remote Jobs
+* Non Remote Jobs
+  
 ### Company Intelligence
 
 * Top Hiring Companies
